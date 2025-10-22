@@ -1,8 +1,8 @@
 # Graph-Convolutional Auto-Encoder
 
-This repo contains the code used for experiments in "Graph-Based Representation Learning and Probabilistic Forecasting for Molecular Dynamics" by Leah Collis (part I of written dissertation for Stanford University PhD degree completion)
+This repo contains the code used for experiments in "Graph-Based Representation Learning and Probabilistic Forecasting for Molecular Dynamics" by Leah Collis (part I of written dissertation for Stanford University PhD degree completion).
 
-Model details can be found in "Graph-Based Representation Learning for Protein Dynamics and Tensor Network Methods for the High-Dimensional Kolmogorov Backward Equation" by Leah Collis (2026)
+Model details can be found in "Graph-Based Representation Learning for Protein Dynamics and Tensor Network Methods for the High-Dimensional Kolmogorov Backward Equation" by Leah Collis (2026).
 
 ## Usage details:
 Run associated training file with given parameters:
